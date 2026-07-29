@@ -10,12 +10,14 @@ Welcome to my **Internships Portfolio** repository! This repository contains the
 ## Projects
 
 ### [CodeAlpha IoT Virtual Internship](./Code_Alpha_project)
-**Virtual Learning Internship at CodeAlpha (Internet of Things)**
+**Virtual Learning Internship at CodeAlpha (Internet of Things)**  
+🎓 **[View Completion Certificate](./Code_Alpha_project/documents/Certificate_Sri%20Charan%20Mittapelly.pdf)**
 
 During this virtual internship, I worked on a series of tasks designed to build practical experience in IoT concepts and applications. This includes comprehensive research reports on Industrial IoT automation, a detailed case study on the integration of IoT with Artificial Intelligence (AIoT), and a practical sensor-based simulation. The simulation involves a real-time radar system built on an Arduino microcontroller with an ultrasonic sensor and servo motor, tested entirely in the Wokwi virtual environment.
 
 ### [EV & ADAS System](./EV&ADAS_project)  
-**Virtual Learning Internship at [Emertxe](https://www.emertxe.com) (Embedded Systems & IoT)**
+**Virtual Learning Internship at [Emertxe](https://www.emertxe.com) (Embedded Systems & IoT)**  
+🎓 **[View Completion Certificate](./EV&ADAS_project/documents/Internship%20Completion%20Certificate%20-%20Sri%20Charan%20Mittapelly.pdf)**
 
 This project focuses on the development of a real-time embedded Electric Vehicle Dashboard with an Ultrasonic Advanced Driver Assistance System (ADAS) Safety Engine. Built on the STM32 "Blue Pill" microcontroller (ARM Cortex-M3 @ 72 MHz) and simulated via PICSimLab, the system models core electric-vehicle behaviour including torque, speed, regenerative braking, and state-of-charge. Alongside the EV dynamics, it features genuine ADAS safety functions—such as Forward Collision Warning, Time-to-Collision estimation, and Blind-Spot Detection—using ultrasonic sensors. A dedicated fault-management layer strictly enforces safe-state behaviour, cutting motor torque instantly upon detecting critical conditions. The complete vehicle state is streamed over UART at 115200 bps to a custom Python Matplotlib dashboard for live, human-readable telemetry visualization. This setup successfully replicates a real-world automotive electronics workflow and hardware-software co-design.
 
