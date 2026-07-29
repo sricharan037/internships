@@ -1,5 +1,14 @@
 # EV ADAS System
 
+## Internship Details
+**Organization:** [Emertxe](https://www.emertxe.com)  
+**Track:** Embedded Systems and Internet of Things (IoT)  
+**Certificates & Documents:**
+- [Internship Completion Certificate](documents/Internship%20Completion%20Certificate%20-%20Sri%20Charan%20Mittapelly.pdf)
+- [Internship Offer Letter](documents/Offer%20Letter%20-%20Sri%20Charan%20Mittapelly.pdf)
+
+> *This project was developed during my 2nd embedded internship at Emertxe as part of a virtual learning program.*
+
 ## Short Description
 A real-time embedded Electric Vehicle Dashboard with an Ultrasonic Advanced Driver Assistance System (ADAS) Safety Engine, developed for the STM32 "Blue Pill" microcontroller.
 
