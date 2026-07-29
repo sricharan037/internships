@@ -9,6 +9,11 @@ Welcome to my **Internships Portfolio** repository! This repository contains the
 
 ## Projects
 
+### [CodeAlpha IoT Virtual Internship](./Code_Alpha_project)
+**Virtual Learning Internship at CodeAlpha (Internet of Things)**
+
+During this virtual internship, I worked on a series of tasks designed to build practical experience in IoT concepts and applications. This includes comprehensive research reports on Industrial IoT automation, a detailed case study on the integration of IoT with Artificial Intelligence (AIoT), and a practical sensor-based simulation. The simulation involves a real-time radar system built on an Arduino microcontroller with an ultrasonic sensor and servo motor, tested entirely in the Wokwi virtual environment.
+
 ### [EV & ADAS System](./EV&ADAS_project)  
 **Virtual Learning Internship at [Emertxe](https://www.emertxe.com) (Embedded Systems & IoT)**
 
